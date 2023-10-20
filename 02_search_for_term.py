@@ -23,8 +23,8 @@
 #          if search_variable in content
 
 #--------------------------------------------------
-# if it is print that it is there and ask if user
-# wants to see the entries for the term
+# if it is the file print that it is in the file and 
+# ask if user wants to see the entries for the term
 #--------------------------------------------------
               
 #              print Your search term {search_variable} exists in the {file_variable} file!
@@ -42,14 +42,14 @@
 #                              print the line with the white_space stripped
 
                #-----------------------------------------------------
-               # if n then run this code:
+               # if N lowercase then run this code:
                #-----------------------------------------------------
 
-#              elif Y lowercase is n
+#              elif Y lowercase is N lowercase
 #                  print Goodbye
 
                #-----------------------------------------------------
-               # if y then run this code to output all the entries:
+               # if Y lowercase then run this code to output all the entries:
                #-----------------------------------------------------
 
 #              else
