@@ -106,4 +106,4 @@ Some of the real code is not complete. It is mixture of pseudocode, real code an
 
 Each one of these files will work independently from each other, but they will only work as designed if you put them together in one file. When you put them together, you will have to make sure that the function code is indented under the top while loop.
 
-This will be worth 10 points, so it is a major project. We will spend time in class on October 23 to work on it in class. 
+This will be worth 10 points, so it is a major project. We will spend time in class on October 23 to work on it in class. If needed, you can get help in the last part of class as the due date will be 9:00 pm October 30 at 11:55.
