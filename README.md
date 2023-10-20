@@ -86,7 +86,7 @@ Hmmm... okay... yes, is now logically and semantically correct, but not very "us
 
 ## Challenge
 
-The next morning, I spent several hours and I made it better, maybe not great, but good enough, I think. So that is the genesis of this Assignment 6 challenge. I want you to try to replicate what I did to make it better. And if you can make it better than better, or even great, then would look forward to seeing that! (Perhaps refactor it with functions; but that is not the assigment. Maybe that will be assignment 7. If not an assignment, I will definitely show you how to refactor it.)
+The next morning, I spent several hours and I made it better, maybe not *great*, but good enough, I think. So that is the genesis of this Assignment 6 challenge. I want you to try to replicate what I did to make it better. And if you can make it better than better, or even great, then would look forward to seeing that! (Perhaps refactor it with functions; but that is not the assigment. Maybe that will be assignment 7. If not an assignment, I will definitely show you how to refactor it.)
 
 * make the program accept any file name AND any search term using a function with those parameters.
 * make it so that it would ONLY print the entries in the file that matched the search.
