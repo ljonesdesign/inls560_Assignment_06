@@ -56,7 +56,7 @@
 # Sample output for above:
 #--------------------------------------------------
 
-# Enter your search term for {file_variable} file.
+# Enter your search term for {file_variable} file (case matters!).
 
 #--------------------------------------------------
 # go to 02_search_for_term.py to continue .....
