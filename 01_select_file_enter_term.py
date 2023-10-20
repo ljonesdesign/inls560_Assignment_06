@@ -1,12 +1,22 @@
 #--------------------------------------------------
 # DO NOT UNCOMMENT COMMENTS WITHIN DASHED LINES!
+# they are not intended to "run". It is just helpful 
+# info. You can delete them all if you wish. 
+# all of the code that is outside of the dashed 
+# lines is either valid pseudocode or partial code
+# or maybe pretty complete code. for example, on 
+# line 19 while True line, if you uncommented it
+# and you put a colon at the end, you 
+# would have complete code.
 #--------------------------------------------------
+
+
 
 #--------------------------------------------------
 # Make program repeat:
 #--------------------------------------------------
 
-# while True
+# while True   
 
 #--------------------------------------------------
 # get user input for file:
