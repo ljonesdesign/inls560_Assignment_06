@@ -93,6 +93,17 @@ The next morning, I spent several hours and I made it better, maybe not *great*,
 * make it so the user could choose between between `80s-music.txt` or `athletes.txt` with a menu
 * make it so that it would loop again and again so the user could keep searching either file and any term.
 
-In reality, this took an incredible investment of time for me. So to make this less time consuming I have created two files that have a mixture of pseudocode and real code. 
+In reality, this took an incredible investment of time for me. 
 
-Each one of these files will work independently from each other, but they will only work as designed if you put them together in one file. 
+So to make this less time consuming I have created two files that have a mixture of pseudocode and real code. They are:
+
+```
+01_select_file_enter_term.py
+02_search_for_term.py
+```
+
+Some of the real code is not complete. It is mixture of pseudocode, real code and incomplete real code. So even though you have a good framework, you it is still might be a substantial challenge. This may seem unfair, but imaging if I asked you to code it up all with just the design goals and expected output. However, the indentation hints are pretty solid.
+
+Each one of these files will work independently from each other, but they will only work as designed if you put them together in one file. When you put them together, you will have to make sure that the function code is indented under the top while loop.
+
+This will be worth 10 points, so it is a major project. We will spend time in class on October 23 to work on it in class. 
