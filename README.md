@@ -1,4 +1,4 @@
-## Assignment 6
+## Assignment 6 Archived: This is from Fall 2023
 
 This assignment is based on correcting the failed added ```else``` in the `80s-music.txt` demo I did in the Files and Exceptions class.
 
